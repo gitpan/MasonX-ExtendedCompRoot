@@ -1,0 +1,7 @@
+Changes
+LICENSE
+Makefile.PL
+MANIFEST
+lib/MasonX/Request/ExtendedCompRoot.pm
+lib/MasonX/Resolver/ExtendedCompRoot.pm
+README
