@@ -1,6 +1,9 @@
 Revision history for MasonX::Request::ExtendedCompRoot
 ======================================================
 
+0.02	2004/02/17
+Added basic tests to keep module testers happy.
+
 0.01	2004/02/17
 
 

@@ -6,7 +6,7 @@ package MasonX::Request::ExtendedCompRoot;
 
 use strict;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use base qw(HTML::Mason::Request);
 
@@ -442,6 +442,10 @@ HTML::Mason
 =head1 BUGS
 
 No known bugs. Unless the inability to insert non-existent or non-absolute paths into the component root is considered a bug.
+
+=head1 VERSION
+
+0.02
 
 =head1 SEE ALSO
 

@@ -6,7 +6,7 @@ package MasonX::Resolver::ExtendedCompRoot;
 
 use strict;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use base qw(HTML::Mason::Resolver::File);
 
@@ -131,6 +131,10 @@ HTML::Mason
 =head1 BUGS
 
 No known bugs.
+
+=head1 VERSION
+
+0.02
 
 =head1 SEE ALSO
 
